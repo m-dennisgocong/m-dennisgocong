@@ -1,4 +1,4 @@
-<h1>Hello, World!</h1>
+<h1 align="center">Hello, World!</h1>
 
 <h2>About me</h2>
 I have 2 years experience working as a Network Support. I miss coding, fixing bugs and developing project. I want to be part of something bigger. I'm here to make a change.
